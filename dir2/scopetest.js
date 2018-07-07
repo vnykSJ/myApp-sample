@@ -1,1 +1,1 @@
-console.log('scopetest.js');
+console.log('scopetest.js console');
